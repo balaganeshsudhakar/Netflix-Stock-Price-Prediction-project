@@ -11,20 +11,20 @@ Approach
 
 Here in my project Netflix Stock Price Prediction i have used following steps
 
-Importing the required Libraries such as
-Pandas
-Numpy
-Matplotlib
+1.Importing the required Libraries such as
+Pandas,
+Numpy,
+Matplotlib,
 sciket learn for
-splitting data
-importing support vector Regressor
-importing Gradient Boosting Regressor
-Importing Linear Regressor
-Minmax scaler.
+splitting data,
+importing support vector Regressor,
+importing Gradient Boosting Regressor,
+Importing Linear Regressor,
+Minmax scaler.,
 
-Reading required Data - I have taken Netflix stock data
+2.Reading required Data - I have taken Netflix stock data
 
-collecting Data information
+ collecting Data information
 
 Dropping the Adjecent closing values
 
