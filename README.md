@@ -1,3 +1,7 @@
+NETFLIX STOCK PRICE PREDICTION PROJECT 
+
+DESCRIPTION
+
 Netflix Stock Price Prediction
 Project on Netflix Stock Price Prediction Using SVR,GBR,LR Method Prediction
 Description
